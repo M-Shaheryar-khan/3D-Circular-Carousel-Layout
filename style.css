@@ -28,7 +28,7 @@ body {
     z-index: 2;
     width: calc(100% - 90%);
     height: calc(100% - 70%);
-    top: 40%;
+    top: 45%;
     left: calc(50% - 100px);
     transform-style: preserve-3d;
     transform: perspective(1000px);
